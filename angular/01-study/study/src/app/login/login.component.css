@@ -1,0 +1,37 @@
+
+      .login-form {
+        max-width: 300px;
+      }
+
+      .login-form-margin {
+        margin-bottom: 16px;
+      }
+
+      .login-form-forgot {
+        float: right;
+      }
+
+      .login-form-button {
+        width: 100%;
+      }
+      .example-input .ant-input {
+        width: 200px;
+        margin: 0 8px 8px 0;
+      }
+      div {
+        margin-bottom: 16px;
+      }
+      .ant-input.demo-input-right {
+        width: 100px;
+        text-align: center;
+        border-left-width: 0px;
+      }
+
+      .ant-input.demo-input-right:hover,
+      .ant-input.demo-input-right:focus {
+        border-left-width: 1px;
+      }
+
+      .ant-input.ant-input-rtl.demo-input-right {
+        border-right-width: 0px;
+      }
